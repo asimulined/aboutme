@@ -10,7 +10,7 @@
    }
 ```
    
-# Stats for my fellow nerds 🤓
+# Statistics 🤓
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weebetofbanter&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
